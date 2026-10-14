@@ -1,0 +1,8 @@
+# Preserve original research documents and dataset archive.
+*.pdf binary
+*.zip binary
+
+# Consistent documentation across platforms.
+*.md text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
